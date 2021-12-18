@@ -5,6 +5,9 @@ import numpy as np
 # Program bikeshare.py is used to query bicycle sharing data
 # from 3 large cities and compute varying statistics about
 # the trips and users.
+# Month selection for the current files is limited to January
+# thru June.
+# Current defaults are set to Chicago and no filtering. 
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new_york_city': 'new_york_city.csv',
