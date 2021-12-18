@@ -7,6 +7,7 @@ import numpy as np
 # the trips and users.
 # Month selection for the current files is limited to January
 # thru June.
+# Current defaults are set to Chicago and no filtering. 
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new_york_city': 'new_york_city.csv',
