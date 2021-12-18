@@ -16,6 +16,7 @@ bikeshare.py
 Note that 3 .csv files are directly referenced by this application.
 
 ### Credits
+UDACITY Program
 Resources used for python syntax questions were:
 https://docs.python.org/3/index.html
 https://numpy.org/
