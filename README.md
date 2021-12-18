@@ -13,6 +13,7 @@ the trips and users.
 
 ### Files used
 bikeshare.py
+Note that 3 .csv files are directly referenced by this application.
 
 ### Credits
 Resources used for python syntax questions were:
